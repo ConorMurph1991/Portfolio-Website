@@ -1,1 +1,1 @@
-Hello World!
+Sample README for project
