@@ -1,0 +1,15 @@
+/* TEAM */
+Your title: Conor Murphy
+Site: ConorMurph1991@gmail.com
+Twitter: ConorMurph1991
+Location: Dublin, Ireland
+
+/* THANKS */
+Name: Twitter Bootstrap [http://getbootstrap.com/]
+Name: AngularJS [http://angularjs.org/]
+
+/* SITE */
+Last Update: YYYY/MM/DD
+Standards: HTML5, CSS3,..
+Components: Modernizr, JQuery, etc.
+Software: Software used for the development
