@@ -8,9 +8,16 @@
 
 
 .coloured-nav {
-	color: #ffffff;
 	background-color: #b84d45;
 	border: none;
+}
+
+.coloured-nav .navbar-brand {
+	color: #ffffff;
+}
+
+.text-color-w {
+	color: #ffffff;
 }
 
 
@@ -19,6 +26,10 @@
 	background-color: #b84d45;
 	padding: 6em 0;
 	text-align: center;
+}
+
+.page-masthead h1 {
+	font-size: 5em;
 }
 
 
