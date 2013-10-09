@@ -7,7 +7,8 @@
 */
 
 
-.my-nav {
+.coloured-nav {
+	color:#ffffff;
 	background-color: #b84d45;
 	border: none;
 }
