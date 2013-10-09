@@ -1,1 +1,20 @@
 /* CSS File */
+
+/* Colour Scheme Info 
+
+		Background Colour: #b84d45;
+
+*/
+
+
+.coloured-nav {
+	background-color: #b84d45;
+	border: none;
+}
+
+
+.page-masthead {
+	background-color: #b84d45;
+	padding: 50px 0;
+	text-align: center;
+}
