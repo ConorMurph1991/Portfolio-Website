@@ -1,13 +1,13 @@
 /* CSS File */
 
-/* Colour Scheme Info 
+/*	Colour Scheme Info 
 
 		Background Colour: #b84d45;
 
 */
 
 
-.coloured-nav {
+.my-nav {
 	background-color: #b84d45;
 	border: none;
 }
@@ -19,3 +19,14 @@
 	padding: 6em 0;
 	text-align: center;
 }
+
+
+/*	==============================
+
+		HELPER CLASSES
+		
+	==============================	*/
+
+.lowercase { text-transform: lowercase; }
+	
+.uppercase { text-transform: uppercase; }
