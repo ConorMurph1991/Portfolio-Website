@@ -14,9 +14,9 @@
 		
 	==============================	*/
 
-body {
-	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
-}
+/* body {
+	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes 
+} */
 
 footer {
 	text-align: left;
@@ -61,6 +61,10 @@ footer {
 }
 
 .custom-nav .navbar-brand {
+	color: #fff;
+}
+
+.custom-nav .navbar-brand:hover {
 	color: #fff;
 }
 
