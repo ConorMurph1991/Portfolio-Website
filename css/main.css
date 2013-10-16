@@ -122,13 +122,13 @@ footer {
 	border-bottom-color: #fff;
 }
 
-.custom-nav .dropdown-menu > li > a:hover,
+/*.custom-nav .dropdown-menu > li > a:hover,
 .custom-nav .dropdown-menu > li > a:focus,
 .custom-nav .dropdown-menu > .active > a,
 .custom-nav .dropdown-menu > .active > a:hover,
 .custom-nav .dropdown-menu > .active > a:focus {
 	background-color: #a5423b;
-}
+}*/
 
 
 
@@ -157,12 +157,12 @@ footer {
 	padding-top: 4.5em;
 }
 
-.intro-marketing {
+.intro {
 	background-color: #fbdedb;
 	padding-bottom: 3em;
 }
 
-.intro-marketing-box {
+.intro-box {
 	padding-top: 3em;
 }
 
@@ -199,7 +199,7 @@ footer {
 		font-size: 3em;
 	}
 
-	.intro-marketing {
+	.introduction {
 		padding: 3em 0;
 	}
 
