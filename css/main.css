@@ -8,6 +8,11 @@
 
 
 
+body {
+	margin:0;
+	padding:0;
+}
+
 
 .container {
 	width:1000px;
@@ -26,12 +31,32 @@
 
 header {
 	padding:0 0 3em 0;
-	background-color: #42474b;
+	background-color:#42474b;
 	color:#ffffff;
 }
 
 h1 span {
-	background-color: #42474b;
+	background-color:#b84d45;
+}
+
+nav {
+	float:right;
+	color:#b84d45;
+}
+
+nav > ul {
+	list-style:none;
+}
+
+nav > ul li {
+	margin:0 0 0 2px;
+	padding:0 0 0 2px;
+	display:inline;
+}
+
+nav > ul li:last-child {
+	margin:0;
+	padding:0;
 }
 	
 
