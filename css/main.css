@@ -11,7 +11,7 @@
 body {
 	margin:0;
 	padding:0;
-	font-size:14px;
+	font-size:18px;
 }
 
 
@@ -75,6 +75,7 @@ header {
 }
 
 #logo {
+	padding:0 2em;
 	float:left;
 }
 
@@ -92,15 +93,11 @@ nav > ul {
 }
 
 nav > ul li {
-	margin:0 0 0 3px;
+	margin:0 0 0 5px;
 	padding:0 0 0 3px;
 	display:inline;
 }
 
-nav > ul li:last-child {
-	margin:0;
-	padding:0;
-}
 	
 
 
