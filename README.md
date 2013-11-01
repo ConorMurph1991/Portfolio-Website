@@ -1,5 +1,5 @@
 #About Me
-Something something something
+Hello my name is Conor Murphy. Something something something
 
 #About The Site
 Something something something
