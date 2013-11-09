@@ -1,24 +1,26 @@
+/* CSS Document */
 
-/*	Colour Scheme Info 
 
-		Background Colour: #42474b;
-		Highlight Colour: #b84d45;
-
+/*	
+	Google Fonts
 */
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
 
 
 
 body {
-	margin:0;
-	padding:0;
-	font-size:18px;
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
 }
 
 
 .container {
-	width:1000px;
-	margin:0 auto;
-	padding:0;
+	width: 1000px;
+	margin: 0 auto;
+	padding: 0;
 }
 
 
@@ -69,34 +71,10 @@ html[xmlns] .clearfix {
 	==============================	*/
 
 header {
-	padding:0 0 3em 0;
-	background-color:#42474b;
-	color:#ffffff;
+
 }
 
-#logo {
-	padding:0 2em;
-	float:left;
-}
 
-#logo span {
-	color:#b84d45;
-}
-
-nav {
-	float:right;
-	color:#b84d45;
-}
-
-nav > ul {
-	list-style:none;
-}
-
-nav > ul li {
-	margin:0 0 0 5px;
-	padding:0 0 0 3px;
-	display:inline;
-}
 
 	
 
@@ -107,45 +85,7 @@ nav > ul li {
 		
 	==============================	*/
 
-	
-.page-masthead {
-	background-color: #b84d45;
-	color: #fff;
-	position: relative;
-	padding: 6em 0;
-	text-align: center;
-}
 
-.page-masthead h1 {
-	font-size: 5em;
-	line-height: 1;
-}
-
-#social {
-	padding-top: 4.5em;
-}
-
-.intro {
-	background-color: #fbdedb;
-	padding-bottom: 3em;
-}
-
-.intro-box {
-	padding-top: 3em;
-}
-
-.templates {
-	padding: 3em 0;
-}
-
-.preview {
-	padding: 1em 0 3em;
-	text-align: center;
-}
-
-.download-links > li {
-	margin-bottom: 5px;
-}
 
 
 
@@ -157,33 +97,4 @@ nav > ul li {
 	==============================	*/
 
 
-@media (max-width: 991px) {
-
-	.page-masthead {
-		padding: 1em 0;
-	}
-
-	.page-masthead h1 {
-		font-size: 3em;
-	}
-
-	.introduction {
-		padding: 3em 0;
-	}
-
-}
-
-@media (max-width: 767px) {
-
-	.dropdown-menu > li > a,
-	.dropdown-menu > li > a {
-		color: #fbdedb;
-	}
-
-	.dropdown-menu > li > a:hover,
-	.dropdown-menu > li > a:focus {
-		background-color: #a5423b;
-		color: #fff;
-	}
-
-}
+	
